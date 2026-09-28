@@ -1,5 +1,6 @@
 name: Update Stars
-
+permissions:
+  contents: write
 on:
   schedule:
     - cron: '0 0 1 * *'   # 每月 1 日
