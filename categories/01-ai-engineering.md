@@ -18,7 +18,7 @@
 | 项目 | Stars | 语言 | 学习价值 | 推荐理由 |
 |------|-------|------|---------|---------|
 | [langgenius/dify](https://github.com/langgenius/dify) | 157.4k | TypeScript | 掌握 Agentic workflow + RAG pipeline | 适合 AI Engineer / LLM 应用开发 |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 185.7k | TypeScript | 理解 Web 数据搜索与抓取 API | 适合 RAG 数据采集 |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 185.8k | TypeScript | 理解 Web 数据搜索与抓取 API | 适合 RAG 数据采集 |
 | [microsoft/pyrit](https://github.com/microsoft/pyrit) | 4.6k | Python | 学习 AI 系统风险识别 | 适合 AI 安全方向 |
 
 ## 高级（3 年+）
@@ -26,4 +26,4 @@
 | 项目 | Stars | 语言 | 学习价值 | 推荐理由 |
 |------|-------|------|---------|---------|
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 249.7k | Python | 理解可成长 Agent 框架 | 适合 AI Agent 高级开发 |
-| [obra/superpowers](https://github.com/obra/superpowers) | 292.3k | TypeScript | 学习 Agent 技能框架与开发方法论 | 适合 AI 平台架构 |
+| [obra/superpowers](https://github.com/obra/superpowers) | 292.4k | TypeScript | 学习 Agent 技能框架与开发方法论 | 适合 AI 平台架构 |
