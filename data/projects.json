@@ -1,0 +1,33 @@
+{
+  "ai-engineering": [
+    {
+      "repo": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "stars": "153k",
+      "language": "TypeScript",
+      "level": "进阶",
+      "value": "学完可掌握 Agentic workflow + RAG pipeline",
+      "reason": "适合 AI Engineer / LLM 应用开发岗位"
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": "185k",
+      "language": "Python",
+      "level": "入门",
+      "value": "理解文件到 Markdown 的转换流程",
+      "reason": "适合 AI 数据处理与 RAG 预处理"
+    }
+  ],
+  "frontend": [
+    {
+      "repo": "facebook/react",
+      "url": "https://github.com/facebook/react",
+      "stars": "230k",
+      "language": "JavaScript",
+      "level": "入门",
+      "value": "掌握组件化、Hooks、虚拟 DOM",
+      "reason": "前端岗位必备"
+    }
+  ]
+}
