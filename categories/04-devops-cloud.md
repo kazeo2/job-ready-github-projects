@@ -9,7 +9,7 @@
 
 | 项目 | Stars | 语言 | 学习价值 | 推荐理由 |
 |------|-------|------|---------|---------|
-| [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | 50.2k | Shell | 从零搭建 K8s 集群 | K8s 入门经典 |
+| [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | 50.3k | Shell | 从零搭建 K8s 集群 | K8s 入门经典 |
 | [devspace](https://github.com/devspace-sh/devspace) | 5.2k | Go | K8s 开发工具 | 集群内直接开发 |
 
 ## 进阶级（1-3 年经验）

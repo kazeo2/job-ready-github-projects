@@ -17,7 +17,7 @@
 
 | 项目 | Stars | 语言 | 学习价值 | 推荐理由 |
 |------|-------|------|---------|---------|
-| [withastro/astro](https://github.com/withastro/astro) | 62.9k | TypeScript | 内容驱动的前端框架 | 适合现代 Web 开发 |
+| [withastro/astro](https://github.com/withastro/astro) | 63.0k | TypeScript | 内容驱动的前端框架 | 适合现代 Web 开发 |
 | [Pretext](https://github.com/pretextjs/pretext) | N/A | TypeScript | 纯 TypeScript 库 | 2026 年热门项目 |
 | [vitejs/vite](https://github.com/vitejs/vite) | 83.1k | TypeScript | 掌握现代构建工具 | 工程化必备 |
 

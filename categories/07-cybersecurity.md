@@ -9,7 +9,7 @@
 
 | 项目 | Stars | 语言 | 学习价值 | 推荐理由 |
 |------|-------|------|---------|---------|
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 93.0k | Python | 开源情报工具 | OSINT 入门 |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 93.1k | Python | 开源情报工具 | OSINT 入门 |
 | [ory/hydra](https://github.com/ory/hydra) | 17.6k | Go | OAuth2/OIDC 服务 | 身份认证 |
 
 ## 进阶级（1-3 年经验）

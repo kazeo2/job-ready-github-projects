@@ -16,5 +16,5 @@
 
 | 项目 | Stars | 语言 | 学习价值 | 推荐理由 |
 |------|-------|------|---------|---------|
-| [airbytehq/airbyte](https://github.com/airbytehq/airbyte) | 22.1k | Python | 300+ 连接器的数据集成 | 数据集成必备 |
+| [airbytehq/airbyte](https://github.com/airbytehq/airbyte) | 22.2k | Python | 300+ 连接器的数据集成 | 数据集成必备 |
 | [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) | 13.9k | Python | 数据建模和转换 | 分析工程 |
