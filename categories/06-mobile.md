@@ -9,7 +9,7 @@
 
 | 项目 | Stars | 语言 | 学习价值 | 推荐理由 |
 |------|-------|------|---------|---------|
-| [android/nowinandroid](https://github.com/android/nowinandroid) | 21.9k | Kotlin | Android 架构最佳实践 | Android 官方示例 |
+| [android/nowinandroid](https://github.com/android/nowinandroid) | 22.0k | Kotlin | Android 架构最佳实践 | Android 官方示例 |
 | [framework7io/framework7](https://github.com/framework7io/framework7) | 18.8k | JavaScript | iOS & Android HTML 框架 | 混合开发 |
 
 ## 进阶级（1-3 年经验）
